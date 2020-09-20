@@ -56,8 +56,9 @@
 # reply_create
 ![](./replywrite.gif)
 
+## 後記
 
-
+mybatisを使いながらsqlとjavaコードを分離して もっと書きやすいコードにしてくれるのを感じました。
 
 ## 補完点
 
