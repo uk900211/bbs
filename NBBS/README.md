@@ -55,14 +55,8 @@
 ![](./delete.gif)
 # reply_create
 ![](./replywrite.gif)
-# board_search
-![](./search.gif)
-## 作ってからの感じ
 
 
-私は学校ではjdbcプログラミングだけ習いましたが、
-今回、mybatisを使いながらsqlとjavaコードを分離して
-もっと書きやすいコードにしてくれるのを感じました。
 
 
 ## 補完点
