@@ -47,7 +47,7 @@
 ![](./login.gif)
 # board_create
 ![](./write.gif)
-# board_reda
+# board_read
 ![](./read.gif)
 # board_update
 ![](./update.gif)
@@ -55,7 +55,8 @@
 ![](./delete.gif)
 # reply_create
 ![](./replywrite.gif)
-
+# reply_paging
+![](./peging.gif)
 ## 後記
 
 mybatisを使いながらsqlとjavaコードを分離して もっと書きやすいコードにしてくれるのを感じました。
